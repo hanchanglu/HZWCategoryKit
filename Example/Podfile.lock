@@ -1,0 +1,16 @@
+PODS:
+  - HZWCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - HZWCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  HZWCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HZWCategoryKit: 6973efb2354b9d373ac9fd585d64c6fde2d3d12e
+
+PODFILE CHECKSUM: 669daef1e115e6c523b35772d4fa5646bdd05b7d
+
+COCOAPODS: 1.7.5

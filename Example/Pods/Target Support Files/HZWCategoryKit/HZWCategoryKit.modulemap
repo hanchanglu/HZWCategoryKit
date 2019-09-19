@@ -1,0 +1,6 @@
+framework module HZWCategoryKit {
+  umbrella header "HZWCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

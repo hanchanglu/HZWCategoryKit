@@ -1,0 +1,22 @@
+{
+  "name": "HZWCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of HZWCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/houzhiwei/HZWCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "houzhiwei": "1575790064@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/houzhiwei/HZWCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HZWCategoryKit/Classes/**/*"
+}
